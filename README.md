@@ -19,23 +19,21 @@ In the first part of the project, the following actions were performed for data 
 
 By employing these exploratory data analysis techniques, we gained a comprehensive understanding of the dataset's characteristics, distribution, and key insights. These actions set the foundation for further model development and optimization in the second part of the project.
 
-## Data Exploration and Visualization
-
 ### Average Sentiment per Category
-![Average Sentiment per Category](images/Average Sentiment per category.png)](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/Average%20Sentiment%20per%20category.png)
+![Average Sentiment per Category](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/Average%20Sentiment%20per%20category.png)
 
 ### Most Common Entities per Category
-![Most Common Entities per Category](images/Most common entities per category.png)
+![Most Common Entities per Category](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/Most%20common%20entities%20per%20category.png)
 
 ### Number of Headlines by Category per Year
-![Number of Headlines by Category per Year](images/Number of headlines by category per year.png)
+![Number of Headlines by Category per Year](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/Number%20of%20headlines%20by%20category%20per%20year.png)
 
 ### Percentage of Headlines by Category
-![Percentage of Headlines by Category](images/Percentage of headlines by category.png)
+![Percentage of Headlines by Category](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/Percentage%20of%20headlines%20by%20category.png)
 
 ### Sentiment Polarity
-![Sentiment Polarity](images/Sentiment Polarity.png)
+![Sentiment Polarity](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/Sentiment%20Polarity.png)
 
 ### Top Words by Category
-![Top Words by Category](images/top words by category.png)
+![Top Words by Category](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/top%20words%20by%20category.png)
 
