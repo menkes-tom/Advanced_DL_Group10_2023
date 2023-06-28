@@ -18,3 +18,23 @@ In the first part of the project, the following actions were performed for data 
 4. **Data Preprocessing**: Preprocessing steps were undertaken to clean and prepare the data for subsequent modeling, including text normalization, handling missing values, and encoding categorical variables.
 
 By employing these exploratory data analysis techniques, we gained a comprehensive understanding of the dataset's characteristics, distribution, and key insights. These actions set the foundation for further model development and optimization in the second part of the project.
+
+## Data Exploration and Visualization
+
+### Average Sentiment per Category
+![Average Sentiment per Category](images/Average Sentiment per category.png)
+
+### Most Common Entities per Category
+![Most Common Entities per Category](images/Most common entities per category.png)
+
+### Number of Headlines by Category per Year
+![Number of Headlines by Category per Year](images/Number of headlines by category per year.png)
+
+### Percentage of Headlines by Category
+![Percentage of Headlines by Category](images/Percentage of headlines by category.png)
+
+### Sentiment Polarity
+![Sentiment Polarity](images/Sentiment Polarity.png)
+
+### Top Words by Category
+![Top Words by Category](images/top words by category.png)
