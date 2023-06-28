@@ -22,7 +22,7 @@ By employing these exploratory data analysis techniques, we gained a comprehensi
 ## Data Exploration and Visualization
 
 ### Average Sentiment per Category
-![Average Sentiment per Category](images/Average Sentiment per category.png)
+![Average Sentiment per Category](images/Average Sentiment per category.png)](https://github.com/menkes-tom/Advanced_DL_Group10_2023/blob/main/images/Average%20Sentiment%20per%20category.png)
 
 ### Most Common Entities per Category
 ![Most Common Entities per Category](images/Most common entities per category.png)
@@ -38,3 +38,4 @@ By employing these exploratory data analysis techniques, we gained a comprehensi
 
 ### Top Words by Category
 ![Top Words by Category](images/top words by category.png)
+
